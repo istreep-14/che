@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-10-21T09:39:16.405Z",
+  "tokens": {
+    "script_token_4": "38eed29.JjGi_DGvRmapPACKA6EttrU3hM4kPYRsvn_HW1UYCmo.VkTPkQXdMzD5D2v8d_RG5dlH9bwUVekeikiybjkpbCRgdNPNff0VHOxTUQ"
+  },
+  "instructions": {
+    "usage": "Use these tokens with the WebSocket client:",
+    "command": "node ws-analysis-with-auth.js test \"TOKEN_VALUE\"",
+    "note": "Replace TOKEN_VALUE with one of the working tokens above"
+  }
+}
