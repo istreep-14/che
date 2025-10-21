@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-21T09:39:16.405Z",
+  "timestamp": "2025-10-21T09:52:02.945Z",
   "tokens": {
-    "script_token_4": "38eed29.JjGi_DGvRmapPACKA6EttrU3hM4kPYRsvn_HW1UYCmo.VkTPkQXdMzD5D2v8d_RG5dlH9bwUVekeikiybjkpbCRgdNPNff0VHOxTUQ"
+    "script_token_4": "134500a8e7cf37d.TuP4zphpUo8zhA0gue7xh8cxvL2RCmDvhbv8N95-Ysg.La-Wif8cON0AwHxx_aq5yI1a1MXYYQGkyoy-BpNMB_gWkrSIwSUHzUnoRA"
   },
   "instructions": {
     "usage": "Use these tokens with the WebSocket client:",
