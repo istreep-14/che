@@ -2,7 +2,7 @@
 // Chess.com WebSocket Analysis Client
 // Connects to wss://analysis.chess.com/ to receive real-time game analysis
 
-const WebSocket = require('/tmp/test-ws/node_modules/ws');
+const WebSocket = require('ws');
 
 const WS_URL = 'wss://analysis.chess.com/';
 

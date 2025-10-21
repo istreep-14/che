@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "sqlite3": "^5.1.7"
+    "puppeteer": "^24.25.0",
+    "sqlite3": "^5.1.7",
+    "ws": "^8.18.3"
   }
 }
