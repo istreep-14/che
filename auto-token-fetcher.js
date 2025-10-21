@@ -21,6 +21,7 @@ class AutoTokenFetcher {
     
     this.browser = await puppeteer.launch({
       headless: true, // Headless mode
+      executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || undefined, // Use system Chrome if available
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
